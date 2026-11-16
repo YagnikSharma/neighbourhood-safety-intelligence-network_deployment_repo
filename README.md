@@ -6,6 +6,8 @@
 
 **Help arrives before the group chat finishes typing.**
 
+Another deployment repo: [github.com/YagnikSharma/nsin-google-landing](https://github.com/YagnikSharma/nsin-google-landing)
+
 [**▶ Live site**](https://ibm-db2-tech-x-project-submission-n.vercel.app) ·
 [Open the app](https://ibm-db2-tech-x-project-submission-n.vercel.app/app/) ·
 [Android APK](https://ibm-db2-tech-x-project-submission-n.vercel.app/downloads/nsin-android.apk) ·
